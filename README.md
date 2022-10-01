@@ -2,11 +2,11 @@
 This is a space for me to keep track of the tools that I use.
 
 ## hardware
-* dell monitor
+* samsung monitor
 * macbook pro
 * airpods
 * bose solo3 
-* logitech M720 triathalon mouse
+* logitech lift mouse
 * keychron K4 keyboard
 
 ## software
